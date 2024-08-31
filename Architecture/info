@@ -1,0 +1,7 @@
+Our src code will have the following folders 
+server
+LoadBalancer
+Client
+
+The server and Load Balancer are tightly coupled and the client is optional
+We aim to provide a highly fault toleralble tftp servie
